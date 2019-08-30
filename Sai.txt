@@ -1,0 +1,26 @@
+d
+b
+c
+c
+a
+a,d
+a,b
+c
+c,d
+b
+d
+b
+a
+a
+c
+b
+a,b
+c
+c
+a,b,c,d
+
+
+I acquired lot of new skills from your training. I have a bad habit of connecting skills to real time while learning itself which I felt you should have helped me out with actual scenarios. I understand that its is not possible in a basics session. However, I overall enjoyed the course. 
+Could you please share some reference links or documents on 'popular' tool with scripting book. example, AWS -Python Boto3 , Jenkins-Groovy like that
+
+My personal email - vsainaveen38@gmail.com
